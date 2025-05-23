@@ -14,7 +14,7 @@ This project analyzes NYC Citi Bike usage trends from 2014–2015, focusing on u
 - Geospatial data handling with `ST_WITHIN`
 - Outlier removal using ChatGPT (filtered trips longer than 180 minutes)
 - Weather data integration
-- Tableau (for visual storytelling and dashboards)
+- Tableau (for visual storytelling and dashboards) Vizz available on https://public.tableau.com/app/profile/antoine.nassaux/viz/CyclisticNYC_17467880265840/TripCount
 - Analytical thinking and data transformation
 
 ## 🧮 Key SQL Query Summary
